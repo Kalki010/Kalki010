@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kalki010
+- 👋 Hi, I’m @Kalki010 (Chinmoy Jana)
 - 👀 I’m interested in CyberSecurity.
 - 🌱 I’m currently learning Red Teaming.
 - 💞️ I’m looking to collaborate on some elite hackers.
